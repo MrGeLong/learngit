@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-µÚÒ»´ÎÐÞ¸Ä¡£
+ç¬¬äºŒæ¬¡ä¿®æ”¹
