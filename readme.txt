@@ -4,3 +4,4 @@ Creating a new branch is quick.
 第一次在分支上测试(dev)
 第二次在分支上测试（devv）
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
