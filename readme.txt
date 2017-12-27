@@ -1,5 +1,2 @@
 Git is a distributed version control system.
-Git is free software.
-dfjdskfsdfs
-dkfdsfs
-sfsada
+第一次修改。
